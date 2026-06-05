@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: Remix: Remix: Remix: Remix: 一花一世界",
+  "description": "基于敦煌莲花藻井与莫家机关术的禅意愿力修行仪式平台，融合精美的手绘现代事业化身与古典甘露供养仪轨。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
